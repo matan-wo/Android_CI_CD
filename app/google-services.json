@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332339392594",
+    "project_id": "cicd-workshow",
+    "storage_bucket": "cicd-workshow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332339392594:android:71ac9943ec553f5edb6f8b",
+        "android_client_info": {
+          "package_name": "com.android.kotlincicd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332339392594-fme7b85ospcnspm333qbvg8mrniitkc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7LyzXYkbKYL85Ohdr5FwbzgGamunlEOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332339392594-fme7b85ospcnspm333qbvg8mrniitkc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
