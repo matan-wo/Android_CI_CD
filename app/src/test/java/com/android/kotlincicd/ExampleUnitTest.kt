@@ -25,4 +25,11 @@ class ExampleUnitTest {
     fun testFotCi() {
         assertEquals(5, 1+4)
     }
+
+    @Test
+    fun testFotCi2() {
+        var x = 6
+        var y = 3+3
+        assertEquals(x, y)
+    }
 }
